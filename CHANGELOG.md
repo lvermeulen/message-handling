@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/informatievlaanderen/message-handling/compare/v1.0.1...v1.0.2) (2021-11-15)
+
+
+### Bug Fixes
+
+* use polly for retries & fix bugs ([da7c4be](https://github.com/informatievlaanderen/message-handling/commit/da7c4beb6a4fba83ac9f2bbbdea7b89367c15d04))
+
 ## [1.0.1](https://github.com/informatievlaanderen/message-handling/compare/v1.0.0...v1.0.1) (2021-11-09)
 
 
