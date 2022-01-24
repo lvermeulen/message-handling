@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/informatievlaanderen/message-handling/compare/v1.1.3...v1.1.4) (2022-01-24)
+
+
+### Bug Fixes
+
+* remove kafka from build to try build again ([b7dc412](https://github.com/informatievlaanderen/message-handling/commit/b7dc412bdbd2de39d9ba5331ca8a06db26b5f8f8))
+
 ## [1.1.3](https://github.com/informatievlaanderen/message-handling/compare/v1.1.2...v1.1.3) (2022-01-24)
 
 
