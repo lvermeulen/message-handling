@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/informatievlaanderen/message-handling/compare/v1.0.7...v1.1.0) (2022-01-24)
+
+
+### Bug Fixes
+
+* add kafka lib to build ([905e874](https://github.com/informatievlaanderen/message-handling/commit/905e874f867cee11d01f5d7f6b2bf2f77fdd6fd8))
+
+
+### Features
+
+* add kafka simple lib ([c4bf57b](https://github.com/informatievlaanderen/message-handling/commit/c4bf57b4237fa70784755e41547e303b2aadd226))
+
 ## [1.0.7](https://github.com/informatievlaanderen/message-handling/compare/v1.0.6...v1.0.7) (2022-01-24)
 
 
