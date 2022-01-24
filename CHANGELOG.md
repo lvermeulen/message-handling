@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/informatievlaanderen/message-handling/compare/v1.1.4...v1.1.5) (2022-01-24)
+
+
+### Bug Fixes
+
+* switch build to kafka only ([cb30bb9](https://github.com/informatievlaanderen/message-handling/commit/cb30bb9299df0a5be6802fb13e5033b3339aef7e))
+
 ## [1.1.4](https://github.com/informatievlaanderen/message-handling/compare/v1.1.3...v1.1.4) (2022-01-24)
 
 
