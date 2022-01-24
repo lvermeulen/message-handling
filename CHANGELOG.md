@@ -1,3 +1,12 @@
+## [1.0.7](https://github.com/informatievlaanderen/message-handling/compare/v1.0.6...v1.0.7) (2022-01-24)
+
+
+### Bug Fixes
+
+* build rabbitmq but don't push to nuget ([04b5ed8](https://github.com/informatievlaanderen/message-handling/commit/04b5ed8897f12a02e602bc551e82b0c44c3b885f))
+* clean up + fix build ([ff697db](https://github.com/informatievlaanderen/message-handling/commit/ff697db68e77af182065b08b1ea94ca6b9ebdde9))
+* revert to last working build ([58d03f6](https://github.com/informatievlaanderen/message-handling/commit/58d03f60c0ca66859ed893f09bbc81a243258dae)), closes [#36](https://github.com/informatievlaanderen/message-handling/issues/36) [#35](https://github.com/informatievlaanderen/message-handling/issues/35)
+
 ## [1.0.3](https://github.com/informatievlaanderen/message-handling/compare/v1.0.2...v1.0.3) (2021-11-17)
 
 ## [1.0.2](https://github.com/informatievlaanderen/message-handling/compare/v1.0.1...v1.0.2) (2021-11-15)
