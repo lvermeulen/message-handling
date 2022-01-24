@@ -8,7 +8,12 @@ namespace Be.Vlaanderen.BasisRegisters.MessageHandling.Kafka.Simple
 
     public static class KafkaConsumer
     {
-        public static Result Consume<T>(string bootstrapServers, string consumerGroupId, string topic, Action<T> messageHandler, CancellationToken cancellationToken = default)
+        public static Result Consume<T>(
+            string bootstrapServers,
+            string consumerGroupId,
+            string topic,
+            Action<T> messageHandler,
+            CancellationToken cancellationToken = default)
             where T: class
         {
             var config = new ConsumerConfig
