@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/informatievlaanderen/message-handling/compare/v1.1.0...v1.1.1) (2022-01-24)
+
+
+### Bug Fixes
+
+* publish kafka simple to nuget ([7f58909](https://github.com/informatievlaanderen/message-handling/commit/7f5890994ec0d23fc97b1fc88125b628c4eb1b18))
+
 # [1.1.0](https://github.com/informatievlaanderen/message-handling/compare/v1.0.7...v1.1.0) (2022-01-24)
 
 
