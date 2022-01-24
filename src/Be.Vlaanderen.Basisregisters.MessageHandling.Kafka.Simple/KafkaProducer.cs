@@ -10,7 +10,12 @@ namespace Be.Vlaanderen.BasisRegisters.MessageHandling.Kafka.Simple
 
     public static class KafkaProducer
     {
-        public static async Task<Result<T>> Produce<T>(string bootstrapServers, string schemaRegistryUrl, string topic, T message, CancellationToken cancellationToken = default)
+        public static async Task<Result<T>> Produce<T>(
+            string bootstrapServers,
+            string schemaRegistryUrl,
+            string topic,
+            T message,
+            CancellationToken cancellationToken = default)
             where T : class
         {
             var config = new ProducerConfig
