@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/informatievlaanderen/message-handling/compare/v1.1.2...v1.1.3) (2022-01-24)
+
+
+### Bug Fixes
+
+* style to trigger build ([689fcfb](https://github.com/informatievlaanderen/message-handling/commit/689fcfb21c8be2c4f733e69ca1377f6c04d60e40))
+
 ## [1.1.2](https://github.com/informatievlaanderen/message-handling/compare/v1.1.1...v1.1.2) (2022-01-24)
 
 
