@@ -1,3 +1,19 @@
+# [1.2.0](https://github.com/informatievlaanderen/message-handling/compare/v1.1.5...v1.2.0) (2022-01-26)
+
+
+### Bug Fixes
+
+* add KafkaOptions.cs ([2a244f2](https://github.com/informatievlaanderen/message-handling/commit/2a244f26052ba9a1327d586773e9254e1d43a6ee))
+* change namespace ([#49](https://github.com/informatievlaanderen/message-handling/issues/49)) ([dc77b36](https://github.com/informatievlaanderen/message-handling/commit/dc77b363883748566d02887ffef36d54043f762a))
+* create KafkaOptions.cs ([ed2bc10](https://github.com/informatievlaanderen/message-handling/commit/ed2bc1015fb0cc676b7129ff321280cd4d92283c))
+* remove LibTest from build.fsx ([fc97169](https://github.com/informatievlaanderen/message-handling/commit/fc9716960a79f36a148fb6ef320f6c92e5fd9f34))
+* remove test project from build.fsx ([b9f3b98](https://github.com/informatievlaanderen/message-handling/commit/b9f3b98e61a5602ff9275a596c9f73239a039a18))
+
+
+### Features
+
+* add kafka options ([d354284](https://github.com/informatievlaanderen/message-handling/commit/d35428448b7209ac4d9c7f87ed64e6d7d16b02ae))
+
 ## [1.1.5](https://github.com/informatievlaanderen/message-handling/compare/v1.1.4...v1.1.5) (2022-01-24)
 
 
