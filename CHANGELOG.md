@@ -1,3 +1,11 @@
+## [1.2.2](https://github.com/informatievlaanderen/message-handling/compare/v1.2.1...v1.2.2) (2022-01-27)
+
+
+### Bug Fixes
+
+* fix build.fsx ([0b8306b](https://github.com/informatievlaanderen/message-handling/commit/0b8306bf5169134108a45dcb239d23c181d1aca3))
+* readd file correct naming ([88e7867](https://github.com/informatievlaanderen/message-handling/commit/88e7867ea9a12e9a0f11e79e070d3b57d8a0fc34))
+
 ## [1.2.1](https://github.com/informatievlaanderen/message-handling/compare/v1.2.0...v1.2.1) (2022-01-27)
 
 
