@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/informatievlaanderen/message-handling/compare/v1.2.2...v1.2.3) (2022-01-27)
+
+
+### Reverts
+
+* Revert "feature: kafka json message serdes" ([e99684f](https://github.com/informatievlaanderen/message-handling/commit/e99684f8ee15671ff2fb326a50a44076b31e7656))
+
 ## [1.2.2](https://github.com/informatievlaanderen/message-handling/compare/v1.2.1...v1.2.2) (2022-01-27)
 
 
