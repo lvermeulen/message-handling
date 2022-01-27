@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/informatievlaanderen/message-handling/compare/v1.2.0...v1.2.1) (2022-01-27)
+
+
+### Bug Fixes
+
+* change build to not run tests ([7af7676](https://github.com/informatievlaanderen/message-handling/commit/7af7676e9c47e276798a056c749b8c55254b23b8))
+
 # [1.2.0](https://github.com/informatievlaanderen/message-handling/compare/v1.1.5...v1.2.0) (2022-01-26)
 
 
