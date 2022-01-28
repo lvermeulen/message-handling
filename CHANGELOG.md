@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/informatievlaanderen/message-handling/compare/v1.2.3...v1.2.4) (2022-01-28)
+
+
+### Bug Fixes
+
+* consume now accepts object ([380333f](https://github.com/informatievlaanderen/message-handling/commit/380333fa2079cc0d718f8e7c927a5bc64c51b368))
+
 ## [1.2.3](https://github.com/informatievlaanderen/message-handling/compare/v1.2.2...v1.2.3) (2022-01-27)
 
 
