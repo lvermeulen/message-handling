@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/informatievlaanderen/message-handling/compare/v1.2.4...v1.3.0) (2022-02-16)
+
+
+### Features
+
+* add Sasl authentication options ([5030daf](https://github.com/informatievlaanderen/message-handling/commit/5030daf777be6b3ae70b0d52c87defa431328f0e))
+
 ## [1.2.4](https://github.com/informatievlaanderen/message-handling/compare/v1.2.3...v1.2.4) (2022-01-28)
 
 
