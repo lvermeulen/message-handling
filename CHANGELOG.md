@@ -1,3 +1,12 @@
+## [1.3.2](https://github.com/informatievlaanderen/message-handling/compare/v1.3.1...v1.3.2) (2022-03-02)
+
+
+### Bug Fixes
+
+* cleanup kafka auth ([8ce39f7](https://github.com/informatievlaanderen/message-handling/commit/8ce39f71e658433928af6c930c0db1cf048a9430))
+* fix kafka authn ([f057a24](https://github.com/informatievlaanderen/message-handling/commit/f057a24fb13590d467dd34981f6e0c8b3e803c69))
+* fix KafkaAuthentication ([#72](https://github.com/informatievlaanderen/message-handling/issues/72)) ([1774517](https://github.com/informatievlaanderen/message-handling/commit/177451776b2739f65764976696845993871fab64))
+
 ## [1.3.1](https://github.com/informatievlaanderen/message-handling/compare/v1.3.0...v1.3.1) (2022-02-17)
 
 
