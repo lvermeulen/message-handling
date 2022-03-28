@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/informatievlaanderen/message-handling/compare/v1.3.2...v2.0.0) (2022-03-28)
+
+
+### Features
+
+* move to dotnet 6.0.3 ([aa04c41](https://github.com/informatievlaanderen/message-handling/commit/aa04c4124d3b1519b74216df64ef33bf68517a9c))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [1.3.2](https://github.com/informatievlaanderen/message-handling/compare/v1.3.1...v1.3.2) (2022-03-02)
 
 
