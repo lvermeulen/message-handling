@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/informatievlaanderen/message-handling/compare/v2.0.0...v2.1.0) (2022-04-05)
+
+
+### Features
+
+* add kafka topic management ([d0d13ae](https://github.com/informatievlaanderen/message-handling/commit/d0d13aefa43c0210a59ba3cba099a12dcc6cd608))
+
 # [2.0.0](https://github.com/informatievlaanderen/message-handling/compare/v1.3.2...v2.0.0) (2022-03-28)
 
 
