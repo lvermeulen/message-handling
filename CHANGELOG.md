@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/informatievlaanderen/message-handling/compare/v2.1.0...v3.0.0) (2022-04-06)
+
+
+### Features
+
+* add consumption from specific offset ([da870bd](https://github.com/informatievlaanderen/message-handling/commit/da870bd98185740c9847f2fa0fa5440eb915bd25))
+
+
+### BREAKING CHANGES
+
+* Consumer now returns `Result<KafkaJsonMessage>` instead of `Result`
+
 # [2.1.0](https://github.com/informatievlaanderen/message-handling/compare/v2.0.0...v2.1.0) (2022-04-05)
 
 
