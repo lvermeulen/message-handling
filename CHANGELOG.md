@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/informatievlaanderen/message-handling/compare/v3.0.0...v4.0.0) (2022-05-13)
+
+
+### Features
+
+* add delay when no message was found ([52bcb9e](https://github.com/informatievlaanderen/message-handling/commit/52bcb9e5638a37ca74edc27ece44dadcbb7bd2dd))
+
+
+### BREAKING CHANGES
+
+* refactored the options into producer & consumer options
+
 # [3.0.0](https://github.com/informatievlaanderen/message-handling/compare/v2.1.0...v3.0.0) (2022-04-06)
 
 
