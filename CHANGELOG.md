@@ -1,3 +1,10 @@
+## [4.1.1](https://github.com/informatievlaanderen/message-handling/compare/v4.1.0...v4.1.1) (2022-06-08)
+
+
+### Bug Fixes
+
+* fix build.fsx ([8c8e19b](https://github.com/informatievlaanderen/message-handling/commit/8c8e19bf5f0916323f42de25b29010da0bc13bfb))
+
 # [4.1.0](https://github.com/informatievlaanderen/message-handling/compare/v4.0.0...v4.1.0) (2022-06-08)
 
 
