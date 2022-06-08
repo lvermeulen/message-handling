@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/informatievlaanderen/message-handling/compare/v4.0.0...v4.1.0) (2022-06-08)
+
+
+### Features
+
+* add AWS SQS support ([5f7da68](https://github.com/informatievlaanderen/message-handling/commit/5f7da6865ab37524476d29de855978ab8eadf7e9))
+
 # [4.0.0](https://github.com/informatievlaanderen/message-handling/compare/v3.0.0...v4.0.0) (2022-05-13)
 
 
