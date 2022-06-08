@@ -2,6 +2,10 @@ framework: net6.0
 source https://api.nuget.org/v3/index.json
 
 // PRODUCTION STUFF
+nuget Microsoft.Extensions.Configuration 6.0.1
+nuget Microsoft.Extensions.Configuration.EnvironmentVariables 6.0.1
+nuget Microsoft.Extensions.Configuration.FileExtensions 6.0.0
+nuget Microsoft.Extensions.Configuration.Json 6.0.0
 nuget Microsoft.Extensions.Configuration.Binder 6.0.0
 nuget Microsoft.Extensions.Logging 6.0.0
 
@@ -10,6 +14,9 @@ nuget Newtonsoft.Json 13.0.1
 nuget Be.Vlaanderen.Basisregisters.Api 18.0.0
 nuget RabbitMQ.Client 6.2.4
 nuget Polly 7.2.3
+
+nuget AWSSDK.Core 3.7.11.5
+nuget AWSSDK.SQS 3.7.2.58
 
 nuget Confluent.Kafka 1.8.2
 
