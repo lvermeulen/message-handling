@@ -1,3 +1,10 @@
+## [4.1.2](https://github.com/informatievlaanderen/message-handling/compare/v4.1.1...v4.1.2) (2022-06-08)
+
+
+### Bug Fixes
+
+* add sqs lib to nuget ([5772edb](https://github.com/informatievlaanderen/message-handling/commit/5772edb61a1b46ae3903f8824243a10df44df1d3))
+
 ## [4.1.1](https://github.com/informatievlaanderen/message-handling/compare/v4.1.0...v4.1.1) (2022-06-08)
 
 
