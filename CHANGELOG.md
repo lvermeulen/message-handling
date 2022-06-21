@@ -1,3 +1,10 @@
+## [4.1.5](https://github.com/informatievlaanderen/message-handling/compare/v4.1.4...v4.1.5) (2022-06-21)
+
+
+### Bug Fixes
+
+* add basic auth ([83a627c](https://github.com/informatievlaanderen/message-handling/commit/83a627cb4e7e78f055700bacaa5a72664f7dfd65))
+
 ## [4.1.4](https://github.com/informatievlaanderen/message-handling/compare/v4.1.3...v4.1.4) (2022-06-08)
 
 
