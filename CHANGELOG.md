@@ -1,3 +1,10 @@
+## [4.1.6](https://github.com/informatievlaanderen/message-handling/compare/v4.1.5...v4.1.6) (2022-06-21)
+
+
+### Bug Fixes
+
+* remove region endpoint ([32597b5](https://github.com/informatievlaanderen/message-handling/commit/32597b54b571d3c6536827981ecbe22cc248b91e))
+
 ## [4.1.5](https://github.com/informatievlaanderen/message-handling/compare/v4.1.4...v4.1.5) (2022-06-21)
 
 
