@@ -1,3 +1,10 @@
+## [4.1.7](https://github.com/informatievlaanderen/message-handling/compare/v4.1.6...v4.1.7) (2022-06-22)
+
+
+### Bug Fixes
+
+* add ctor without credentials ([5d4132f](https://github.com/informatievlaanderen/message-handling/commit/5d4132f4b8bf230decc9cb7269ca19046092ad92))
+
 ## [4.1.6](https://github.com/informatievlaanderen/message-handling/compare/v4.1.5...v4.1.6) (2022-06-21)
 
 
