@@ -1,3 +1,10 @@
+# [4.2.0](https://github.com/informatievlaanderen/message-handling/compare/v4.1.7...v4.2.0) (2022-06-24)
+
+
+### Features
+
+* add copy to queue & create queue if not exists ([20392d5](https://github.com/informatievlaanderen/message-handling/commit/20392d5932d00207d02e4fb9e53a707ef66b4443))
+
 ## [4.1.7](https://github.com/informatievlaanderen/message-handling/compare/v4.1.6...v4.1.7) (2022-06-22)
 
 
