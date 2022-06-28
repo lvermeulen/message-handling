@@ -1,3 +1,10 @@
+## [4.2.1](https://github.com/informatievlaanderen/message-handling/compare/v4.2.0...v4.2.1) (2022-06-28)
+
+
+### Bug Fixes
+
+* allow messageGroupId in CopyToQueue ([b635a4d](https://github.com/informatievlaanderen/message-handling/commit/b635a4de7effeac6b2174cc3d0adb66247e667b6))
+
 # [4.2.0](https://github.com/informatievlaanderen/message-handling/compare/v4.1.7...v4.2.0) (2022-06-24)
 
 
