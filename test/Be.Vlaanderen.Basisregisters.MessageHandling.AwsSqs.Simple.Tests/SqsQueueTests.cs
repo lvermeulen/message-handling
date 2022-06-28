@@ -1,6 +1,7 @@
 namespace Be.Vlaanderen.Basisregisters.MessageHandling.AwsSqs.Simple.Tests
 {
     using System.Threading.Tasks;
+    using Amazon;
     using Xunit;
 
     public class SqsQueueTests
@@ -9,7 +10,7 @@ namespace Be.Vlaanderen.Basisregisters.MessageHandling.AwsSqs.Simple.Tests
         [InlineData("", "", "")]
         public async Task CreateListDeleteQueue(string accessKey, string secretKey, string sessionToken)
         {
-            var options = new SqsOptions();
+            var options = new SqsOptions(accessKey, secretKey, sessionToken, RegionEndpoint.EUWest1);
 
             await SqsQueue.CreateQueue(options, nameof(SqsQueueTests), true);
             await SqsQueue.CreateQueue(options, nameof(SqsQueueTests), true);
