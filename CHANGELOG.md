@@ -1,3 +1,10 @@
+## [4.2.3](https://github.com/informatievlaanderen/message-handling/compare/v4.2.2...v4.2.3) (2022-07-08)
+
+
+### Bug Fixes
+
+* SqsQueueOptions to record ([562f7e5](https://github.com/informatievlaanderen/message-handling/commit/562f7e52f23010c4b0d4466d04d36f16f303ed82))
+
 ## [4.2.2](https://github.com/informatievlaanderen/message-handling/compare/v4.2.1...v4.2.2) (2022-07-08)
 
 
