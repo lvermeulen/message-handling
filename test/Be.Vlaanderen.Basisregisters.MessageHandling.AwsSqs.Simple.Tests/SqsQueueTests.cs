@@ -29,5 +29,15 @@ namespace Be.Vlaanderen.Basisregisters.MessageHandling.AwsSqs.Simple.Tests
                 }
             }
         }
+
+        [Theory]
+        [InlineData("https://sqs.eu-west-1.amazonaws.com/123456789012/test-queue")]
+        [InlineData("test-queue")]
+        public void ParseQueueNameFromQueueUrl(string inputUrl)
+        {
+            var queueUrl = inputUrl;
+            var queueName = SqsQueue.ParseQueueNameFromQueueUrl(queueUrl);
+            Assert.Equal("test-queue", queueName);
+        }
     }
 }

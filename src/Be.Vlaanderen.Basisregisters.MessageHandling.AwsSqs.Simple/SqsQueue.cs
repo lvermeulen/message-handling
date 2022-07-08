@@ -56,7 +56,7 @@ namespace Be.Vlaanderen.Basisregisters.MessageHandling.AwsSqs.Simple
 
             // check if queue exists
             var queues = await ListQueues(options, cancellationToken);
-            var queue = queues.FirstOrDefault(x => x.Split('/').Last().Equals(queueName, StringComparison.OrdinalIgnoreCase));
+            var queue = queues.FirstOrDefault(x => ParseQueueNameFromQueueUrl(queueName).Equals(queueName, StringComparison.OrdinalIgnoreCase));
             return queue ?? await CreateQueue(options, queueName, isFifoQueue, cancellationToken);
         }
 
@@ -66,5 +66,7 @@ namespace Be.Vlaanderen.Basisregisters.MessageHandling.AwsSqs.Simple
             using var client = new AmazonSQSClient(config);
             _ = await client.DeleteQueueAsync(queueUrl, cancellationToken);
         }
+
+        public static string ParseQueueNameFromQueueUrl(string queueUrl) => queueUrl.Split('/').Last().Trim('/');
     }
 }
