@@ -1,3 +1,10 @@
+# [4.3.0](https://github.com/informatievlaanderen/message-handling/compare/v4.2.3...v4.3.0) (2022-09-05)
+
+
+### Features
+
+* add deduplication id ([3a072cb](https://github.com/informatievlaanderen/message-handling/commit/3a072cbfa8bcef07e74a212a0d11339fa70bf056))
+
 ## [4.2.3](https://github.com/informatievlaanderen/message-handling/compare/v4.2.2...v4.2.3) (2022-07-08)
 
 
